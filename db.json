@@ -1,0 +1,95 @@
+{
+  "posts": [
+    { "id": "ca1", 
+    "name": "Leanne Graham",
+    "email":"Sincere@april.biz",
+    "photo":"https://th.bing.com/th/id/OIP.Bpy0Wu6K8z3dhMpINn-tcwHaKb?pid=ImgDet&rs=1",
+    "mobile":"8547951235",
+    "Company":"super7",
+    "title":"Devloper",
+    "groupId":"1"
+   
+},
+ { "id": "ca2", 
+    "name": "Ervin Howell",
+    "email":"Shanna@melissa.tv",
+    "photo":"https://th.bing.com/th/id/OIP.l_gENHi2B3zpeteDjTb9RgAAAA?pid=ImgDet&w=300&h=300&rs=1",
+    "mobile":"1578654123",
+    "Company":"Deckow-Crist",
+    "title":"system admin",
+    "groupId":"2"
+   
+},
+ { "id": "ca3", 
+    "name": "Clementine Bauch",
+    "email":"Lucio_Hettinger@annie.ca",
+    "photo":"https://th.bing.com/th/id/OIP.cb-QqJrz-lsNA99y389PrgHaEn?pid=ImgDet&rs=1",
+    "mobile":"75166755456",
+    "Company":"Keebler LLC",
+    "title":"tester",
+    "groupId":"4"
+   
+},
+ { "id": "ca4", 
+    "name": "Kurtis Weissnat",
+    "email":"Telly.Hoeger@billy.biz",
+    "photo":"https://th.bing.com/th/id/OIP.cb-QqJrz-lsNA99y389PrgHaEn?pid=ImgDet&rs=1",
+    "mobile":"845166755456",
+    "Company":"Johns Group",
+    "title":"HR",
+    "groupId":"3"
+   
+},
+ { "id": "ca5", 
+    "name": "Nicholas Runolfsdottir V",
+    "email":"Sherwood@rosamond.me",
+    "photo":"https://th.bing.com/th/id/OIP.yhFotdX_FuzZLxAAl-QtQAHaHa?pid=ImgDet&w=512&h=512&rs=1",
+    "mobile":"68745855456",
+    "Company":"Abernathy Group",
+    "title":"Manager",
+    "groupId":"2"
+   
+},
+
+ { "id": "ca6", 
+    "name": "Chelsey Dietrich",
+    "email":"Sincere@april.biz",
+    "photo":"https://th.bing.com/th/id/OIP.Bpy0Wu6K8z3dhMpINn-tcwHaKb?pid=ImgDet&rs=1",
+    "mobile":"8547951235",
+    "Company":"super7",
+    "title":"Devloper",
+    "groupId":"3"
+   
+},
+ { "id": "ca7", 
+    "name": "Dennis Schulist",
+    "email":"Karley_Dach@jasper.info",
+    "photo":"https://yt3.ggpht.com/a/AATXAJxw4S3LqG8A05OrOI4i8scj5QT8QC9oOarC=s900-c-k-c0xffffffff-no-rj-mo",
+    "mobile":"2548962556",
+    "Company":"Considine-Lockman",
+    "title":"Devloper",
+    "groupId":"2"
+   
+},
+ { "id": "ca8", 
+    "name": "Clementine Bauch",
+    "email":"Lucio_Hettinger@annie.ca",
+    "photo":"https://th.bing.com/th/id/OIP.cb-QqJrz-lsNA99y389PrgHaEn?pid=ImgDet&rs=1",
+    "mobile":"75166755456",
+    "Company":"Keebler LLC",
+    "title":"tester",
+    "groupId":"4"
+   
+}
+
+  ],
+  "groupId": [
+    { "id": 1, "name": "Friend"},
+    { "id": 2, "name": "Family"},
+    { "id": 3, "name": "Colleague"},
+    { "id": 4, "name": "Social"}
+    
+  ]
+ 
+}
+
